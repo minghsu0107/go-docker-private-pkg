@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "file:///Users/hao-ming.hsu/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/yamllint.json": "file:///Users/hao-ming.hsu/Desktop/go-docker-private-pkg/.github/workflows/docker.yml"
+    }
+}
